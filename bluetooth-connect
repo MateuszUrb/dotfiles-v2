@@ -1,0 +1,8 @@
+#!/bin/bash
+
+pulseaudio --start
+bluetoothctl -- agent on
+bluetoothctl -- power on
+bluetoothctl -- scan on
+bluetoothctl -- connect 5C:FB:7C:0C:A7:E6
+bspc wm -r

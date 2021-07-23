@@ -1,0 +1,29 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/sanchit/.config/pomotroid/logs/.580ba124b462bd165b75826840085e694cdf0555-audit.json",
+    "files": [
+        {
+            "date": 1626359844766,
+            "name": "/home/sanchit/.config/pomotroid/logs/pomotroid-2021-07-15.log",
+            "hash": "a6f05e4538e1a51ab7b0520218572565"
+        },
+        {
+            "date": 1626705591632,
+            "name": "/home/sanchit/.config/pomotroid/logs/pomotroid-2021-07-19.log",
+            "hash": "313ba23205c68644f2dd7271a67bb23b"
+        },
+        {
+            "date": 1626926117570,
+            "name": "/home/sanchit/.config/pomotroid/logs/pomotroid-2021-07-21.log",
+            "hash": "afad61cac5309fae089c1798e6e6ec3d"
+        },
+        {
+            "date": 1626926415354,
+            "name": "/home/sanchit/.config/pomotroid/logs/pomotroid-2021-07-22.log",
+            "hash": "e6f82a2d06ecbcb8d770cf0efeeaec91"
+        }
+    ]
+}

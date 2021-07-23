@@ -1,0 +1,83 @@
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:37:24.767Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:37:24.811Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:37:24.863Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:37:24.863Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:37:24.864Z"}
+{"message":"creating directory: /home/sanchit/.config/pomotroid/themes","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:37:25.003Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:37:25.019Z"}
+{"message":"focus round round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:39:00.916Z"}
+{"message":"quitting app...","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:52:44.565Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:37.077Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:37.122Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:37.178Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:37.179Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:37.179Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:37.332Z"}
+{"message":"quitting app...","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:37.841Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:58.947Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:58.991Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:59.047Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:59.047Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:59.048Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:59.197Z"}
+{"message":"quitting app...","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:57:59.539Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:09.484Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:09.528Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:09.564Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:09.564Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:09.565Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:09.719Z"}
+{"message":"quitting app...","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:10.372Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:38.282Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:38.327Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:38.394Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:38.394Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:38.395Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:38.551Z"}
+{"message":"quitting app...","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:42.242Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:56.268Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:56.313Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:56.348Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:56.349Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:56.349Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:58:56.499Z"}
+{"message":"quitting app...","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:59:00.722Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:59:06.392Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:59:06.439Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:59:06.484Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:59:06.485Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:59:06.485Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:59:06.644Z"}
+{"message":"focus round round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T14:59:08.309Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:21:41.095Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:21:41.138Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:21:41.189Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:21:41.190Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:21:41.190Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:21:41.335Z"}
+{"message":"focus round round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:21:43.018Z"}
+{"message":"focus round round paused","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:21:44.430Z"}
+{"message":"focus round round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:22:02.564Z"}
+{"message":"focus round completed","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:22:13.797Z"}
+{"message":"short break round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:22:15.302Z"}
+{"message":"focus round completed","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:24:08.310Z"}
+{"message":"short break round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:24:09.819Z"}
+{"message":"short break round paused","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:24:28.153Z"}
+{"message":"short break round reset","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:24:30.339Z"}
+{"message":"short break completed","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:29:09.820Z"}
+{"message":"focus round round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:29:11.323Z"}
+{"message":"focus round completed","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:54:11.325Z"}
+{"message":"short break round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:54:12.829Z"}
+{"message":"short break completed","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:59:12.831Z"}
+{"message":"focus round round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T15:59:14.336Z"}
+{"message":"focus round completed","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:14.336Z"}
+{"message":"short break round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:15.841Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:24.343Z"}
+{"message":"app ready","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:24.388Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:24.443Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:24.443Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:24.444Z"}
+{"message":"Preferences loaded from /home/sanchit/.config/pomotroid/user-preferences.json","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:24.591Z"}
+{"message":"quitting app...","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:24:31.863Z"}
+{"message":"short break completed","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:29:15.841Z"}
+{"message":"focus round round started","level":"info","hostname":"archpc","timestamp":"2021-07-15T16:29:17.345Z"}

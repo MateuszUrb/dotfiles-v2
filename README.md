@@ -27,6 +27,8 @@ Finally I've made another rice. Time to review it:
 
 
 ![alt text](https://github.com/sanchit-sehgal/dotfiles-v2/blob/main/screenshots/screenshot3.png)
+
+![alt text](https://github.com/sanchit-sehgal/dotfiles-v2/blob/main/screenshots/screenshot4.png)
  
 
 

@@ -11,7 +11,6 @@ Finally I've made another rice. Time to review it:
 |   **Colors** | Custom Colors (found in **.Xresources.d** |
 |   **Fonts** | Iosevka Custom for Mostly Everything, Iosevka Nerd Font for the Polybar Icons |
 |   **Bar**  | Polybar |
-|   **Shell**  | zsh |
 |   **GTK Theme** | Custom Theme |
 |   **Discord Theme** | BetterDiscord |
 
